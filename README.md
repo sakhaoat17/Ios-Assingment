@@ -1,1 +1,2 @@
 ![WhatsApp Image 2024-11-14 at 10 00 06_911721b6](https://github.com/user-attachments/assets/f26beab8-c6d4-4b0e-befc-01e278d0d963)
+his SwiftUI app simulates a dice roll with an animated experience. The user taps the "Roll Dice" button to generate a random dice face between 1 and 6. The button temporarily disables as the dice “rolls,” cycling through random numbers to mimic a real rolling effect, before displaying the final result. The app provides a simple, engaging way to roll a virtual dice with smooth animations.
